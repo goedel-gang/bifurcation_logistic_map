@@ -1,3 +1,5 @@
+# vim: ft=python
+
 from find_stable_points import stable_points, decimal, logi_map
 
 LO = 2.4
